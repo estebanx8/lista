@@ -31,9 +31,6 @@ Ingrese el índice del dato a cambiar: 2
 Ingrese el nuevo dato: Jose
 Los datos de la lista después del cambio son:  ['Juan', 'Ana', 'Jose', 'Maria']
 ```
-Licencia
-Este programa está bajo la licencia MIT.
-
 Autor
 [estebanx8]
 
